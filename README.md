@@ -4,9 +4,9 @@
 <p align="center">
     <a href="https://github.com/AlessandrodeAlmeida2"><img src="https://img.shields.io/badge/status-updating-brightgreen.svg"></a>
     <a href="https://github.com/python/cpython"><img src="https://img.shields.io/badge/Python-3.10-FF1493.svg"></a>
-    <a href="https://github.com/AlessandrodeAlmeida2/graphs/contributors"><img src="https://img.shields.io/github/contributors/BEPb/BEPb?color=blue"></a>
-    <a href="https://github.com/AlessandrodeAlmeida2/stargazers"><img src="https://img.shields.io/github/stars/BEPb/BEPb.svg?logo=github"></a>
-    <a href="https://github.com/AlessandrodeAlmeida2/network/members"><img src="https://img.shields.io/github/forks/BEPb/BEPb.svg?color=blue&logo=github"></a>
+    <a href="https://github.com/AlessandrodeAlmeida2/graphs/contributors"><img src="https://img.shields.io/github/contributors/AlessandrodeAlmeida2/BEPb?color=blue"></a>
+    <a href="https://github.com/AlessandrodeAlmeida2/stargazers"><img src="https://img.shields.io/github/stars/AlessandrodeAlmeida2/BEPb.svg?logo=github"></a>
+    <a href="https://github.com/AlessandrodeAlmeida2/network/members"><img src="https://img.shields.io/github/forks/AlessandrodeAlmeida2/BEPb.svg?color=blue&logo=github"></a>
     <img src="https://visitor-badge.laobi.icu/badge?page_id=AlessandrodeAlmeida2" alt="visitors"/>   
 </p>
 
@@ -42,26 +42,26 @@
 
 <!--   GitHub stats graph -->
 ### 📈 GitHub Activity Graph:
-[![BEPb's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=BEPb&theme=github-compact)](https://github.com/BEPb/github-readme-activity-graph)
+[![Alessandro's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=AlessandrodeAlmeida2&theme=github-compact)](https://github.com/AlessandrodeAlmeida2/BEPb/github-readme-activity-graph)
 
 | .                                                                                                                                       | .                                                                                                                         |
 |-----------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------|
-| ![BEPb's github stats](https://github-readme-stats.vercel.app/api?username=BEPb&show_icons=true&theme=radical&include_all_commits=true) | ![Quiec's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=BEPb&theme=radical&layout=compact) |
+| ![Alessandro's github stats](https://github-readme-stats.vercel.app/api?username=AlessandrodeAlmeida2&show_icons=true&theme=radical&include_all_commits=true) | ![Alessandro's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=AlessandrodeAlmeida2&theme=radical&layout=compact) |
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=BEPb"></img>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=AlessandrodeAlmeida2"></img>
 
 <!--   profile-green-animate -->
 ![](./profile-3d-contrib/profile-green-animate.svg)
 
 <!--   grid-snake -->
-![](https://github.com/BEPb/BEPb/blob/output/github-contribution-grid-snake.svg)
+![](https://github.com/AlessandrodeAlmeida2/BEPb/blob/output/github-contribution-grid-snake.svg)
 
 <!--   skyline 
 <a href="https://skyline.github.com/BEPb/2022"><img src="./assets/2022.gif" alt="" width="auto" height="auto" /></a>
 -->
 
 <!--  2d history skills -->
-<img src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=BEPb&skills=JavaScript,Jupyter-Notebook,PHP,Shell,Python,C,Java,HTML" width="auto"></img>
+<img src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=AlessandrodeAlmeida2&skills=JavaScript,Jupyter-Notebook,PHP,Shell,Python,C,Java,HTML" width="auto"></img>
 
 **📫 How to Reach me:**
 <p align="left">
@@ -76,7 +76,7 @@
 </div>
 
 <p align="center"> 
-<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=BEPb" alt="BEPb" /></a>
+<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=AlessandrodeAlmeida2" alt="AlessandrodeAlmeida2" /></a>
 </p>
 
 <div align="center">
